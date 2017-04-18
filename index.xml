@@ -7,7 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>gelehrtecrest</copyright>
+    <lastBuildDate>Tue, 18 Apr 2017 23:20:13 -0900</lastBuildDate>
     <atom:link href="https://gelehrtecrest.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ゲレの工作部屋</title>
+      <link>https://gelehrtecrest.github.io/</link>
+      <pubDate>Tue, 18 Apr 2017 23:20:13 -0900</pubDate>
+      
+      <guid>https://gelehrtecrest.github.io/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;私が作成したアプリを公開するためのまとめサイトです。&lt;/p&gt;
+
+&lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
+
+&lt;p&gt;Menuからそれぞれのページにアクセスしてください。&lt;/p&gt;
+
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/gelehrte_crest&#34;&gt;https://twitter.com/gelehrte_crest&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:ein.gelehrte@gmail.com&#34;&gt;ein.gelehrte@gmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
